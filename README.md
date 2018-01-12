@@ -1,7 +1,5 @@
 # Underscore.php
 
-
-[![The Sign](https://www.dropbox.com/s/7ao8zdlimhnhjv3/crookedsign.svg?style=flat)](https://travis-ci.org/Anahkiasen/underscore-php)
 [![Build Status](http://img.shields.io/travis/Anahkiasen/underscore-php.svg?style=flat)](https://travis-ci.org/Anahkiasen/underscore-php)
 [![Latest Stable Version](http://img.shields.io/packagist/v/anahkiasen/underscore-php.svg?style=flat)](https://packagist.org/packages/anahkiasen/underscore-php)
 [![Total Downloads](http://img.shields.io/packagist/dt/anahkiasen/underscore-php.svg?style=flat)](https://packagist.org/packages/anahkiasen/underscore-php)
