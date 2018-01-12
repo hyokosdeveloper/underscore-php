@@ -1,25 +1,30 @@
 {
-  "name": "anahkiasen/underscore-php",
+  "name": "zeusbasephp/underscore-php",
   "description": "A redacted port of Underscore.js for PHP",
   "license": "MIT",
   "keywords": [
     "toolkit",
     "internals",
-    "laravel"
+    "descartes"
   ],
   "authors": [
     {
-      "name": "Maxime Fabre",
-      "email": "ehtnam6@gmail.com"
+      "name": "Haralambos Yokos",
+      "email": "hyokos@descartes.com"
     }
   ],
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.0.0",
     "doctrine/inflector": "^1.0",
-    "patchwork/utf8": "^1.2"
+    "patchwork/utf8": "^1.2",
+    "symfony/dependency-injection": "v4.0.3",
+    "symfony/lock": "v4.0.3",
+    "symfony/http-kernel": "v4.0.3",
+    "symfony/finder": "v4.0.3"
   },
   "require-dev": {
-    "fabpot/php-cs-fixer": "^1.10",
+	"patchwork/utf8": "v1.3.1",
+    "friendsofphp/php-cs-fixer": "v2.10.0",
     "phpunit/phpunit": "^4.8"
   },
   "autoload": {
